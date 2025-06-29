@@ -44,3 +44,7 @@ coverage/
 *.db
 *.pdf
 embeddings/
+
+# Ignore specific files
+service.json
+*.json
